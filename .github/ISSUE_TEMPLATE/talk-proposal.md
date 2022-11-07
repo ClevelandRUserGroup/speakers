@@ -26,3 +26,11 @@ Please provide a description of your talk. This will be copy-pasted directly to 
 ## Speaker bio
 
 Please provide a short bio. This will be copy-pasted directly to the event on meetup.com
+
+## Length
+
+Please check all the presentation lengths you would be interested in for this talk:
+
+- [ ] 30-60 min (you'd be the only speaker)
+- [ ] 10-20 min (you'd split the meetup with a second speaker)
+- [ ] 5-10 min (you'd be one of many lightning talks)
