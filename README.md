@@ -2,9 +2,11 @@
 
 We'd love to have you present at the [Cleveland R User Group][meetup]. The
 guidelines below are to help you prepare. If you have any additional questions,
-please open an Issue in this repo or directly email the co-organizers.
+please open an Issue in this repo or directly email the co-organizers. When
+you're ready, please [open an Issue to share your talk proposal][talk-proposal].
 
 [meetup]: https://www.meetup.com/Cleveland-UseR-Group
+[talk-proposal]: https://github.com/ClevelandRUserGroup/speakers/issues/new?assignees=jdblischak&labels=speaker&template=talk-proposal.md&title=Talk+proposal%3A+
 
 ## Topics
 
