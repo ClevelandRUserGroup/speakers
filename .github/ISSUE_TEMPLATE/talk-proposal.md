@@ -34,3 +34,7 @@ Please check all the presentation lengths you would be interested in for this ta
 - [ ] 30-60 min (you'd be the only speaker)
 - [ ] 10-20 min (you'd split the meetup with a second speaker)
 - [ ] 5-10 min (you'd be one of many lightning talks)
+
+## Date (optional)
+
+Is there a particular date (or dates) that you would prefer to speak? Please see Issue #1 for available meetups in 2023
